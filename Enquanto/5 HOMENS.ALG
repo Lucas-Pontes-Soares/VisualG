@@ -1,5 +1,5 @@
 Algoritmo "5 homens"
-//receba o sexo de 5 pessoas e pare quando houver 5 homens
+//receba o sexo de 5 pessoas e pare quando houver 5 homens ...
 Var
 x, conth : inteiro
 sexo: caracter
@@ -14,7 +14,7 @@ enquanto (conth<5) faca
             conth := conth + 1
          fimse
 fimenquanto
-Escreva ("Número de homens: ", conth)
+Escreva ("Nï¿½mero de homens: ", conth)
          
 
 
